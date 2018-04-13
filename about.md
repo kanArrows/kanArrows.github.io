@@ -5,15 +5,15 @@ menu: About
 ---
 {% assign current_year = site.time | date: '%Y' %}
 
-Kanarrows
+kanArrows
 ===
 男 90后
 
 ## 概况
 
-- Kanarrows#gmail.com
-- 主页：[http://Kanarrows.me](http://Kanarrows.me)
-- 微博：[@Kanarrows](http://weibo.com/Kanarrows)
+- kanArrows#gmail.com
+- 主页：[http://kanArrows.me](http://kanArrows.me)
+- 微博：[@kanArrows](http://weibo.com/kanArrows)
 
 
 ## keywords

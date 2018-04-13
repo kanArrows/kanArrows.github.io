@@ -1,16 +1,16 @@
 {
-  "name": "kanarrows.github.io",
-  "description": "kanarrows blog",
+  "name": "kanArrows.github.io",
+  "description": "kanArrows blog",
   "main": "",
   "authors": [
-    "kanarrows <kanarrows@gmail.com>"
+    "kanArrows <kanArrows@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
-    "kanarrows",
+    "kanArrows",
     "blog"
   ],
-  "homepage": "https://github.com/kanarrows/kanarrows.github.io",
+  "homepage": "https://github.com/kanArrows/kanArrows.github.io",
   "moduleType": [],
   "ignore": [
     "**/.*",

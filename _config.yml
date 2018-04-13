@@ -1,20 +1,20 @@
-title: Kanarrows | Kanarrows博客
-name: Kanarrows
-email: Kanarrows@gmail.com
-description: Kanarrows，PHP工程师，从事web相关的开发工作。开源爱好者，GitHub:https://github.com/Kanarrows。
-keywords: Laravel,PHP,Kanarrows
+title: kanArrows | kanArrows博客
+name: kanArrows
+email: kanArrows@gmail.com
+description: kanArrows，PHP工程师，从事web相关的开发工作。开源爱好者，GitHub:https://github.com/kanArrows。
+keywords: Laravel,PHP,kanArrows
 skill_keywords: [PHP, Javascript, HTML+CSS, Linux, Laravel, Sublime Text]
 
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://Kanarrows.me
+url: http://kanArrows.me
 baseurl:  "/"
-domain:    Kanarrows.me
+domain:    kanArrows.me
 permalink:     /articles/:year/:month/:title.html
 paginate_path: 'page:num'
 paginate:   10
-source_code: https://github.com/Kanarrows/Kanarrows.github.io
+source_code: https://github.com/kanArrows/kanArrows.github.io
 
 # Build settings
 lsi:         false
@@ -45,7 +45,7 @@ gems:
   - jekyll-paginate
 
 disqus:
-  id: Kanarrows
+  id: kanArrows
 
 google:
     analytics_id: UA-55452630-1
@@ -57,13 +57,8 @@ navs:
     label: Home
 
   -
-    href: https://github.com/Kanarrows
+    href: https://github.com/kanArrows
     label: GitHub
-    target: _blank
-
-  -
-    href: http://weibo.com/44294631
-    label: Weibo
     target: _blank
 
   -
