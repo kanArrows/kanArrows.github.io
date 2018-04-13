@@ -1,0 +1,29 @@
+{
+  "name": "kanarrows.github.io",
+  "description": "kanarrows blog",
+  "main": "",
+  "authors": [
+    "kanarrows <kanarrows@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "kanarrows",
+    "blog"
+  ],
+  "homepage": "https://github.com/kanarrows/kanarrows.github.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "octicons": "*",
+    "primer-markdown": "*",
+    "primer-css": "~2.1.0",
+    "share.js": "overtrue-share.js#*",
+    "jquery": "~2.1.4"
+  }
+}
