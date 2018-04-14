@@ -47,9 +47,6 @@ gems:
 disqus:
   id: kanArrows
 
-google:
-    analytics_id: UA-55452630-1
-
 # navigation
 navs:
   -
