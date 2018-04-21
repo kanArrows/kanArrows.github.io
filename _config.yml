@@ -8,9 +8,9 @@ skill_keywords: [PHP, Javascript, HTML+CSS, Linux, Laravel, Sublime Text]
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://kanArrows.me
+#url: http://kanArrows.me
 baseurl:  "/"
-domain:    kanArrows.me
+#domain:    kanArrows.me
 permalink:     /articles/:year/:month/:title.html
 paginate_path: 'page:num'
 paginate:   10
