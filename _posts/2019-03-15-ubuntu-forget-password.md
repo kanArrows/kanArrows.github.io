@@ -16,6 +16,7 @@ mysql -u debian-sys-maint -p
   
 ## 三.修改密码
 ```mysql
+use mysql;
 update mysql.user set authentication_string=password('root') where user='root' and Host ='localhost';
 update user set plugin="mysql_native_password"; 
 flush privileges;
@@ -23,3 +24,5 @@ flush privileges;
 
 ## 四.重启 mysql
 > sudo service mysql restart
+
+## ok~~
